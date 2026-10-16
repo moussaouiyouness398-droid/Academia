@@ -1,0 +1,6 @@
+{
+  "name": "Academia",
+  "description": "Una aplicación de gestión premium de deberes, exámenes y organización escolar con un diseño Material 3 Expressive, calendario, estadísticas, organizador semanal y modo enfoque.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
